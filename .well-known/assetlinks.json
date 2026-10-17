@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.threewsafe.app",
+     "package_name": "com.jaymiesimon.threewsafe"
       "sha256_cert_fingerprints": [
         "EC:29:84:8E:1A:67:DA:14:C1:CF:64:D9:9B:34:4E:57:F9:5C:97:F9:9A:5E:6F:69:DD:00:CC:7C:0E:29:A0:D4"
       ]
